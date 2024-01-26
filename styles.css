@@ -14,7 +14,7 @@ body {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    background: linear-gradient(#bad7f2, #9FB8CF);
+    background: linear-gradient(#9FB8CF, #bad7f2);
     color: #2e282a;
     border-bottom: 6px solid #f2bac9;
     border-radius: 10px;
